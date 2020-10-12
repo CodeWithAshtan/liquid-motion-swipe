@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Logo 500x500 px.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
